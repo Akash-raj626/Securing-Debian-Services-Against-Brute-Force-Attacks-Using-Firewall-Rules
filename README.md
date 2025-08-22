@@ -77,9 +77,6 @@ From Kali Linux:
 
 # Result:
 - Hydra failed to connect due to:
-
-Changed SSH port.
-
-Limited authentication attempts.
-
-Hardened firewall rules.
+- Changed SSH port.
+- Limited authentication attempts.
+- Hardened firewall rules.
